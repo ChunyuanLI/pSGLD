@@ -11,8 +11,6 @@ Preconditioned Stochastic Gradient Langevin Dynamics (pSGLD)
 - Start to run 'test_FNN_mnist.m' to test a 2-layer FNN with 400 hidden units each . 
 - You may also modify line 'linSizes  = [400 400 data.outSize]' to other configurations. 
 
-<img src="/simulation/2D/figure/pSGLD.png" data-canonical-src="/simulation/2D/figure/pSGLD.png" width="460" height="250" />
-
 
 ## Citation
 Please cite our AAAI paper if it helps your research:
