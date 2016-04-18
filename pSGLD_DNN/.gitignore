@@ -1,0 +1,5 @@
+exps/*
+!exps/exps
+
+environmentVariables.m
+*.m~
