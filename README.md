@@ -1,7 +1,8 @@
 # pSGLD
 Preconditioned Stochastic Gradient Langevin Dynamics (pSGLD)
 
-[TensorFlow Implementation](https://www.tensorflow.org/probability/api_docs/python/tfp/optimizer/StochasticGradientLangevinDynamics)
+Links:
+[Implementation on TensorFlow Website](https://www.tensorflow.org/probability/api_docs/python/tfp/optimizer/StochasticGradientLangevinDynamics)
 
 ## Simulation (2D Gaussian Example in Figure 1 of the paper)
 - Simulation 1 provides _Average Absolute Error of Sample Covariance_ vs _AutoCorrelation Time (ACT)_
